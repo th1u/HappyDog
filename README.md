@@ -6,4 +6,4 @@
 ## 数据选用
 使用匠数大模型数据集作为基础数据集，包括Pretrain阶段的数据以及SFT阶段的数据。
 ## 最终效果
-[image](image.png)
+![image](image.png)
